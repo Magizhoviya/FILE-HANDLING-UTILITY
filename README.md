@@ -60,3 +60,7 @@ Any IDE (such as IntelliJ IDEA, Eclipse, or VS Code) or a simple text editor
 Command line or terminal for compilation and execution
 
 This task will lay a strong foundation for advanced topics such as serialization, file encryption, data persistence, and working with file systems in real-time applications.
+
+# OUTPUT
+
+<img width="617" height="172" alt="Image" src="https://github.com/user-attachments/assets/e639cb96-13ac-4003-83c7-ffddcb40b956"/>
